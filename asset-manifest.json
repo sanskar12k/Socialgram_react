@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sanskar12k/Socialgram_react.git/static/css/main.a858a42d.chunk.css",
+    "main.js": "/sanskar12k/Socialgram_react.git/static/js/main.8163a2c0.chunk.js",
+    "main.js.map": "/sanskar12k/Socialgram_react.git/static/js/main.8163a2c0.chunk.js.map",
+    "runtime-main.js": "/sanskar12k/Socialgram_react.git/static/js/runtime-main.6a85a07f.js",
+    "runtime-main.js.map": "/sanskar12k/Socialgram_react.git/static/js/runtime-main.6a85a07f.js.map",
+    "static/js/2.6702c623.chunk.js": "/sanskar12k/Socialgram_react.git/static/js/2.6702c623.chunk.js",
+    "static/js/2.6702c623.chunk.js.map": "/sanskar12k/Socialgram_react.git/static/js/2.6702c623.chunk.js.map",
+    "static/js/3.a916c501.chunk.js": "/sanskar12k/Socialgram_react.git/static/js/3.a916c501.chunk.js",
+    "static/js/3.a916c501.chunk.js.map": "/sanskar12k/Socialgram_react.git/static/js/3.a916c501.chunk.js.map",
+    "index.html": "/sanskar12k/Socialgram_react.git/index.html",
+    "static/css/main.a858a42d.chunk.css.map": "/sanskar12k/Socialgram_react.git/static/css/main.a858a42d.chunk.css.map",
+    "static/js/2.6702c623.chunk.js.LICENSE.txt": "/sanskar12k/Socialgram_react.git/static/js/2.6702c623.chunk.js.LICENSE.txt",
+    "static/media/logo192.2a77b947.png": "/sanskar12k/Socialgram_react.git/static/media/logo192.2a77b947.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a85a07f.js",
+    "static/js/2.6702c623.chunk.js",
+    "static/css/main.a858a42d.chunk.css",
+    "static/js/main.8163a2c0.chunk.js"
+  ]
+}
